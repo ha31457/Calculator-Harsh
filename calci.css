@@ -1,0 +1,23 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    padding: 20px;
+}
+
+body{
+    background-color :burlywood;
+}
+
+.grid-item{
+    margin: 8px;
+    color: white;
+    background-color : gray;
+
+    font-size: 30px;
+    text-align: center;
+    
+    border-color :goldenrod;
+    border-radius: 1.5cm;
+    padding: 20px;
+    
+}
